@@ -17,7 +17,7 @@
  >SinglyLinkedList * createSinglyLinkedList(bool *success)
 
     User can use this function to create Singly Linked List.
-    then can perfrom the operation on that list. here success denotes wether a list is created or not.
+    then can perform the operation on that list. here success denotes wether a list is created or not.
 
     
 
